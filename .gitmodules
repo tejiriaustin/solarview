@@ -1,0 +1,6 @@
+[submodule "narx-app"]
+	path = narx-app
+	url = git@github.com:tejiriaustin/narx-app.git
+[submodule "narx_api"]
+	path = narx_api
+	url = git@github.com:tejiriaustin/narx_api.git
